@@ -1,6 +1,7 @@
 # seed_job
-# Plugins - job DSL /
-  #        ssh agent  --->>  
+# Plugins - 
+## job DSL 
+## ssh agent  
   go to manage credential     
   select global & add credentail   
   select ssh username with private key     
