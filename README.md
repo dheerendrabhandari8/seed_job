@@ -5,7 +5,7 @@
   go to manage credential     
   select global & add credential   
   select ssh username with private key     
-  give a user name description and username    
+  give a ID (should be same as in jenkinsfile[seed job]), description and username    
   paste pem key in private key & create   
   
   
